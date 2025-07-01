@@ -1,0 +1,6 @@
+function lista (){
+
+//Declarações
+}
+
+return 
